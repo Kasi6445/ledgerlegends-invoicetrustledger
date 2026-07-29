@@ -5,3 +5,4 @@ api/*.log
 portal/dist/
 api/public/
 *.log
+the project guide/
