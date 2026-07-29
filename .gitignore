@@ -5,5 +5,5 @@ api/*.log
 portal/dist/
 api/public/
 *.log
-the project guide/
-e2e/TASK.md/
+the project guide
+e2e/TASK.md
