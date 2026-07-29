@@ -6,3 +6,4 @@ portal/dist/
 api/public/
 *.log
 the project guide/
+e2e/TASK.md/
