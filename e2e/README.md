@@ -15,11 +15,6 @@ layer** for every business rule.
     npm run test:ui:headed    # full flow, watch it live, records video
     npm run report            # HTML report with videos + traces
 
-## With AI coding assistant (recommended)
-
-    cd ~/invoice-trust-ledger/e2e
-    # then: "Read TASK.md and complete the task it describes."
-
 ## Evidence lands in
 
 - `evidence/*.png` — numbered screenshots of each milestone
